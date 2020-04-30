@@ -1,0 +1,15 @@
+#yourRemindersSection {
+    display: none;
+}
+
+#leaveAnotherReminderBtn {
+    display: none;
+}
+
+#newReminderSection {
+    display: none;
+}
+
+#viewRemindersSection {
+    display: none;
+}
